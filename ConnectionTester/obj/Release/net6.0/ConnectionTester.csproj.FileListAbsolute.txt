@@ -1,0 +1,15 @@
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ConnectionTester.exe
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ConnectionTester.deps.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ConnectionTester.runtimeconfig.json
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ConnectionTester.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ref\ConnectionTester.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\bin\Release\net6.0\ConnectionTester.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.csproj.AssemblyReference.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.GeneratedMSBuildEditorConfig.editorconfig
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.AssemblyInfoInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.AssemblyInfo.cs
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.csproj.CoreCompileInputs.cache
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ref\ConnectionTester.dll
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.pdb
+L:\Backup 19.1.18\Gamedev\Visual Studio 2019\My Programs\ConnectionTester\ConnectionTester\ConnectionTester\obj\Release\net6.0\ConnectionTester.genruntimeconfig.cache
